@@ -1,2 +1,0 @@
-SIMPLE CLI based LUDO GAME IN PYTHON 
-To play ludo just open run.py
